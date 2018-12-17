@@ -1,4 +1,4 @@
-package io.netty.example.time;
+package io.netty.nettyBook2Example.time;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
