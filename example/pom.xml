@@ -161,6 +161,13 @@
       <groupId>com.sun.activation</groupId>
       <artifactId>javax.activation</artifactId>
     </dependency>
+
+    <!-- messagepack -->
+    <dependency>
+      <groupId>org.msgpack</groupId>
+      <artifactId>msgpack</artifactId>
+      <version>0.6.6</version>
+    </dependency>
   </dependencies>
 
   <build>
